@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @drmauriciofilho
-- 👀 I’m interested in woman
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá, eu sou Mauricio sou estudante da Ciência da computação na Universidade Federal do Tocantins. 
 
-<!---
-drmauriciofilho/drmauriciofilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+.Estou introduzindo na Linguagem C. 
+
+.Defino me como uma pessoa adaptável, que possui a capacidade de ajustar-se efetivamente a mudanças e novas situações. Uma pessoa capaz de demonstra flexibilidade, resiliência e abertura para aprender com experiências diferentes.
+
+
