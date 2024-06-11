@@ -1,4 +1,4 @@
-Olá, eu sou Mauricio sou estudante da Ciência da computação na Universidade Federal do Tocantins. 
+Olá, eu sou Mauricio sou estudante de Ciência da computação na Universidade Federal do Tocantins. 
 
 .Estou introduzindo na Linguagem C. 
 
